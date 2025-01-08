@@ -29,4 +29,5 @@ I am a Software Engineer passionate about [mention your interests]. I have exper
 
 **Contact**
 
-* Email: [your_email@example.com]
+* Email: [abhardwaj.mzn@gmail.com]
+  
