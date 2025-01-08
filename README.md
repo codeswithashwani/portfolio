@@ -1,6 +1,6 @@
 # portfolio
 
-## Chandrabhan Maurya
+## Ashwani Kumar
 
 **About Me**
 
